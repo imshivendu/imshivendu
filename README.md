@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imshivendu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working in SAP
 - 💞️ I’m looking to collaborate on SAP Projects
 - 📫 You can reach out to me on shivendujha11@gmail.com
 
